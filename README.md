@@ -1,5 +1,5 @@
 # FreeRecord：录音系统
-录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!!!
+录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -12,13 +12,16 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## demo暂无，附团队AI Call Center的2025.04.20 Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的2025.04.21 Demo链接，enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://118.25.192.13:8822/cc
 
 2，工单：(demo/123456)
 http://118.25.192.13:80
+
+注意：如果页面打不开，是因为demo页面正在频受DDo5攻击，目前我们正报警处理，还请用户谅解。可直接加我们联络方式进行沟通。
+![image](https://github.com/user-attachments/assets/3115c7b7-c6ed-415e-b272-db6a8120784a)
 
 ## 开发语言：Java,Vue,Python,SpringBoot！
 业务模块Java为主；智能模块Python为主。
