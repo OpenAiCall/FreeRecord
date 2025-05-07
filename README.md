@@ -12,7 +12,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## demo暂无，附团队AI Call Center的2025.05.06 Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的2025.05.07 Demo链接，enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
