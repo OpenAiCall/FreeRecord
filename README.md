@@ -1,5 +1,5 @@
 # FreeRecord：录音系统
-录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!!!!!!!!
+录音系统，SIP录音，电话录音，通话录音，呼叫中心录音，手机录音，企业电话录音，服务通知录音，智能录音，Call Center, Contact Center,AI,TTS,ASR,RAG,大模型，人工智能，联络中心录音,Robot,large model robot!
 
 ## 😄完整性:前端、后端、数据库，齐全！功能全开、不设限！不分什么社区版、商业版！部分功能还在迭代ing！
 ## 😄我们坚信：软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
@@ -12,7 +12,7 @@
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
 
-## demo暂无，附团队AI Call Center的2025.06.01 Demo链接，enjoy😄：
+## demo暂无，附团队AI Call Center的2025.06.03 Demo链接，enjoy😄：
 
 1，话务/在线客服：(demo123/demo123@Abc)
 http://124.220.48.38:8822/cc
@@ -122,9 +122,13 @@ http://124.220.48.38:80
 
 下图是随机抽取的需求对接的群：
 
+![image](https://github.com/user-attachments/assets/911cd5b8-4aec-42f4-a39e-bda21fff135a)
+![image](https://github.com/user-attachments/assets/bdac425d-9792-427e-bb25-0b4e748e54b8)
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/8562bddf-5f11-4f28-abde-b6fe98aa724d)
+![image](https://github.com/user-attachments/assets/cd932862-7b80-4b96-9fc3-c50caaea4ee0)
+![image](https://github.com/user-attachments/assets/5247f74c-89f3-4f3b-befd-04b681055592)
 ![image](https://github.com/user-attachments/assets/3862674e-b1d7-4bc4-b3a6-7ecf73077934)
-
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
